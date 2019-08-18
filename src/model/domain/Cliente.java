@@ -1,4 +1,4 @@
-package br.com.exercicio;
+package model.domain;
 
 public class Cliente {
 
